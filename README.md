@@ -1,4 +1,3 @@
-# covid19-global-eda-
 # Exploratory Data Analysis on Global COVID-19 Dataset
 
 **Organization:** Zintera Soft  
