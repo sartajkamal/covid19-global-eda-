@@ -2,7 +2,8 @@
 
 **Organization:** Zintera Soft  
 **Role:** Data Science Intern  
-**Author:** [Your Name]  
+**Author:** [Sartaj Kamal
+]  
 
 ## Project Overview
 This project performs an Exploratory Data Analysis (EDA) on the global COVID-19 dataset provided by Our World in Data (OWID). It analyzes country-wise metrics, continental trends, daily case spikes, and demographic correlations.
